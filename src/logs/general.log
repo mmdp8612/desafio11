@@ -1,0 +1,17 @@
+[2023-11-27T17:14:23.785Z] ERROR: Prueba log - nivel error
+[2023-11-27T17:14:23.788Z] ERROR: Prueba log - nivel error
+[2023-11-27T17:14:23.788Z] WARN: Prueba log - nivel warn
+[2023-11-27T17:14:23.789Z] INFO: Prueba log - nivel info
+[2023-11-27T17:15:08.571Z] ERROR: Prueba log - nivel error
+[2023-11-27T17:15:08.572Z] ERROR: Prueba log - nivel error
+[2023-11-27T17:15:08.572Z] WARN: Prueba log - nivel warn
+[2023-11-27T17:15:08.573Z] INFO: Prueba log - nivel info
+[2023-11-27T17:53:41.149Z] ERROR: Error: Password incorrect!
+[2023-11-27T17:56:08.421Z] INFO: All fields are required
+[2023-12-08T00:21:41.846Z] ERROR: Error: User not authorized to delete this product
+[2023-12-14T22:59:37.131Z] INFO: All fields are required
+[2023-12-14T23:00:19.066Z] INFO: All fields are required
+[2023-12-14T23:00:31.412Z] INFO: All fields are required
+[2023-12-14T23:01:15.441Z] INFO: All fields are required
+[2023-12-14T23:59:28.015Z] ERROR: CastError: Cast to ObjectId failed for value "{id}" (type string) at path "_id" for model "Product"
+[2023-12-15T00:00:08.145Z] ERROR: CastError: Cast to ObjectId failed for value "{uid}" (type string) at path "_id" for model "Product"
